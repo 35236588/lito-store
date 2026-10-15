@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "nombre": "iPhone 15",
+    "precio": 800000
+  },
+  {
+    "id": 2,
+    "nombre": "AirPods Pro",
+    "precio": 70000
+  },
+  {
+    "id": 3,
+    "nombre": "Perfume Dior Sauvage",
+    "precio": 180000
+  },
+  {
+    "id": 4,
+    "nombre": "erba Pura",
+    "precio": 6500
+  },
+  {
+    "id": 5,
+    "nombre": "iPhone 18 Pro Max",
+    "precio": 1900000
+  }
+]
